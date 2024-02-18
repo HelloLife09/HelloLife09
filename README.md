@@ -1,5 +1,4 @@
-### Hi there 👋
-### I am HelloLife09
+### Hi there, I am HelloLife09
 ________________
 - 😄 Pronouns: He/Him
 - 🌱 I'm currently learning Python and how to use it.
