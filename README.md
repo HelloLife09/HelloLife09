@@ -1,8 +1,8 @@
 ### Hi there, I am HelloLife09
 ________________
 - 😄 Pronouns: He/Him
-- 🌱 I'm currently learning Python and how to use it.
-- 🔭 I’m currently working on different projects to know more about Python and it's abilites.
+- 🌱 I'm currently learning different programming languages and how to use them.
+- 🔭 I’m currently working on different projects to know more about different programming languages and their abilites.
 <!--
 **HelloLife09/HelloLife09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
